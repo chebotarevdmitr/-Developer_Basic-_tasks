@@ -1,0 +1,3 @@
+/home/dmitriy/Documents/reho/-Developer_Basic-_tasks/build/CMakeFiles/hello.dir
+/home/dmitriy/Documents/reho/-Developer_Basic-_tasks/build/CMakeFiles/edit_cache.dir
+/home/dmitriy/Documents/reho/-Developer_Basic-_tasks/build/CMakeFiles/rebuild_cache.dir
